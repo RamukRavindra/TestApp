@@ -1,0 +1,17 @@
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/shasishanmugam/.rbenv/versions/2.7.7/bin/ruby -I /Users/shasishanmugam/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20241010-70748-1mpyrb1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/opt/homebrew/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20241010-70748-gkdfv3

@@ -1,0 +1,13 @@
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/shasishanmugam/.rbenv/versions/2.7.7/bin/ruby -I /Users/shasishanmugam/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20241010-70748-10wqczd.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
