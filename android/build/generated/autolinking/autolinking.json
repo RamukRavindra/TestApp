@@ -1,20 +1,20 @@
 {
-  "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp",
-  "reactNativePath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native",
+  "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp",
+  "reactNativePath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native",
   "reactNativeVersion": "0.75",
   "dependencies": {
     "react-native-gesture-handler": {
-      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-gesture-handler",
+      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-gesture-handler",
       "name": "react-native-gesture-handler",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-gesture-handler/RNGestureHandler.podspec",
-          "version": "2.20.0",
+          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-gesture-handler/RNGestureHandler.podspec",
+          "version": "2.20.2",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-gesture-handler/android",
+          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-gesture-handler/android",
           "packageImportPath": "import com.swmansion.gesturehandler.RNGestureHandlerPackage;",
           "packageInstance": "new RNGestureHandlerPackage()",
           "buildTypes": [],
@@ -23,7 +23,7 @@
             "RNGestureHandlerButtonComponentDescriptor",
             "RNGestureHandlerRootViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -32,23 +32,23 @@
       }
     },
     "react-native-reanimated": {
-      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-reanimated",
+      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-reanimated",
       "name": "react-native-reanimated",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-reanimated/RNReanimated.podspec",
-          "version": "3.15.4",
+          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-reanimated/RNReanimated.podspec",
+          "version": "3.16.1",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-reanimated/android",
+          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-reanimated/android",
           "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
           "packageInstance": "new ReanimatedPackage()",
           "buildTypes": [],
           "libraryName": "rnreanimated",
           "componentDescriptors": [],
-          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -57,17 +57,17 @@
       }
     },
     "react-native-safe-area-context": {
-      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-safe-area-context",
+      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
-          "version": "4.11.0",
+          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "version": "4.12.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-safe-area-context/android",
+          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-safe-area-context/android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -76,7 +76,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -85,17 +85,17 @@
       }
     },
     "react-native-screens": {
-      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-screens",
+      "root": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-screens",
       "name": "react-native-screens",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-screens/RNScreens.podspec",
-          "version": "3.34.0",
+          "podspecPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-screens/RNScreens.podspec",
+          "version": "3.35.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-screens/android",
+          "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-screens/android",
           "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
           "packageInstance": "new RNScreensPackage()",
           "buildTypes": [],
@@ -111,7 +111,7 @@
             "RNSScreenComponentDescriptor",
             "RNSModalScreenComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -281,7 +281,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp"
+          "default": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp"
         },
         {
           "name": "--platform <string>",
@@ -332,8 +332,7 @@
         },
         {
           "name": "--terminal <string>",
-          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "Apple_Terminal"
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path."
         },
         {
           "name": "--binary-path <string>",
@@ -492,8 +491,7 @@
         },
         {
           "name": "--terminal <string>",
-          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "Apple_Terminal"
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path."
         },
         {
           "name": "--appId <string>",
@@ -568,7 +566,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/ios",
+      "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/ios",
       "xcodeProject": {
         "name": "NativeApp.xcworkspace",
         "path": ".",
@@ -577,7 +575,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/NativeApp/android",
+      "sourceDir": "/Users/shasishanmugam/Documents/RI_Development_Mobility/latest/TestApp/android",
       "appName": "app",
       "packageName": "com.nativeapp",
       "applicationId": "com.nativeapp",

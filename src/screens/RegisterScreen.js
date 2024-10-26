@@ -1,7 +1,9 @@
 import { StyleSheet, Text, View } from 'react-native';
 import React from 'react';
 
-export default function RegisterScreen() {
+export default function RegisterScreen(props) {
+    console.log('props', props.route.params);
+
     return (
         <View>
             <Text>RegisterScreen</Text>
